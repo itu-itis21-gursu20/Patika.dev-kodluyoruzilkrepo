@@ -26,3 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://www.mit.edu/)
 
+[Patika.dev internet sitesi linki](www.patika.dev)
+
