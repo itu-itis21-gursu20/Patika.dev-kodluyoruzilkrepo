@@ -1,0 +1,42 @@
+h1{
+    color:rgb(177, 23, 23);
+    text-align: center;
+}
+
+div>a{
+    color:blue;
+}
+
+div{
+    
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color:rgb(255, 94, 0);
+}
+
+p{
+    text-align: center;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+
+.color-green{
+    color: green;
+}
+
+ul { /*this code will center ul list and its items*/
+    text-align: center;
+    list-style: inside;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+
+h3{
+    color: chocolate;
+}
+
+ol { /*this code will center ol list and its items*/
+    text-align: center;
+    list-style-position: inside;
+  }
