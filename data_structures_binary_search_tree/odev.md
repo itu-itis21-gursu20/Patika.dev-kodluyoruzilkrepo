@@ -5,7 +5,7 @@
 
 			       5
 		  2                7
-	 0        3        6       8 
+	 0            3        6       8 
         1        4                9
 
 - Root 5 tir. Sağında 7 solunda 2 bulunur.
